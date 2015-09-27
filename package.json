@@ -1,0 +1,25 @@
+{
+  "name": "ndarray-from-canvas",
+  "version": "1.0.0",
+  "description": "Extracts a canvas RGBA pixels as a ndarray",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thibauts/ndarray-from-canvas.git"
+  },
+  "keywords": [
+    "ndarray",
+    "canvas",
+    "pixels"
+  ],
+  "author": "thibauts",
+  "license": "MIT",
+  "dependencies": {
+    "dtype": "^2.0.0",
+    "get-canvas-pixels": "^1.0.0",
+    "ndarray": "^1.0.18"
+  }
+}
